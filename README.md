@@ -31,7 +31,7 @@ This project enables users to register, log in, and manage (create, view, edit, 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/swachh-bharat-app.git
+   git clone https://github.com/akshay06sa/swachh-bharat-app.git
    cd swachh-bharat-app
    ```
 
